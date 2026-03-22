@@ -21,7 +21,7 @@ They do **not** represent real business data.
 
 The app is available here:
 
-[Open Streamlit App]([https://ws-forecast-tracker-w96mrjqr47k2zy5htvgrmk.streamlit.app/](https://ws-forecast-tracker-demo-5vi6gveurv2hzdmhw6t4hs.streamlit.app/))
+[Open Streamlit App](https://ws-forecast-tracker-w96mrjqr47k2zy5htvgrmk.streamlit.app/](https://ws-forecast-tracker-demo-5vi6gveurv2hzdmhw6t4hs.streamlit.app/)
 
 ---
 
