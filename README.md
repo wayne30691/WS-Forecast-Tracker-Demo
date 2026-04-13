@@ -2,7 +2,7 @@
 
 A Python-based forecasting and publish-comparison app built with Streamlit.
 
-This project was originally developed as an R Shiny application. It has now been migrated to Python within the working environment.  
+This project was originally developed as an R Shiny application by Nicolas Nguyen. It has now been migrated to Python within the working environment.  
 The Python version provides a more maintainable, portable, and scalable solution for interactive forecast tracking and publish comparison.
 
 ---
